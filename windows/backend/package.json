@@ -12,13 +12,13 @@
     "test": "./node_modules/mocha/bin/mocha -R ${REPORTER-spec}"
   },
   "dependencies": {
-    "debug": "~0.7.0",
+    "debug": "~4.4.3",
     "dreamopt": "~0.8.0",
     "livereload-server": "~0.2.3",
     "livereload-core": "=0.8.4",
     "vfs-local": "http://download.livereload.com/npm/vfs-local-0.1.0.tgz",
     "apitree": "~1.1.0",
-    "underscore": "~1.4.2",
+    "underscore": "~1.13.7",
     "pathspec": "~0.9.2"
   },
   "devDependencies": {
